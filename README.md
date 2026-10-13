@@ -1,4 +1,4 @@
 # SoftwareTools
-All content released by this project is intended for 64-bit Windows systems.
+All content released by this project is intended for Windows systems.
 
-Other operating systems have not been tested; please try at your own discretion.
+Other operating systems have not been tested; please proceed at your own discretion.
