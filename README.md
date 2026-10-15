@@ -4,35 +4,7 @@ All content released by this project is intended for Windows systems.
 Other operating systems have not been tested; please proceed at your own discretion.
 
 <details>
-<summary>文件办公处理</summary>
-
-- [PDF编辑工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/PDF%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
-- [文件格式转换](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2)
-- [文件标签分类工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E6%96%87%E4%BB%B6%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB%E5%B7%A5%E5%85%B7)
-
-</details>
-
-<details>
-<summary>影音剪辑制作</summary>
-
-- [屏幕录制软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%E8%BD%AF%E4%BB%B6)
-- [3D动画建模软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/3D%E5%8A%A8%E7%94%BB%E5%BB%BA%E6%A8%A1%E8%BD%AF%E4%BB%B6)
-- [本地图片/视频超分工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%2F%E8%A7%86%E9%A2%91%E8%B6%85%E5%88%86%E5%B7%A5%E5%85%B7)
-- [视频播放器](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8)
-
-</details>
-
-<details>
-<summary>网络与代理工具</summary>
-
-- [VPN代理工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/VPN%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7)
-- [Steam重定向加速访问工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/Steam%E9%87%8D%E5%AE%9A%E5%90%91%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AE%E5%B7%A5%E5%85%B7)
-- [网络抓包分析工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E7%BD%91%E7%BB%9C%E6%8A%93%E5%8C%85%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7)
-
-</details>
-
-<details>
-<summary>系统维护与优化</summary>
+<summary>系统类</summary>
 
 - [内存清理工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%86%85%E5%AD%98%E6%B8%85%E7%90%86%E5%B7%A5%E5%85%B7)
 - [Windows禁/启用更新工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/Windows%E7%A6%81%2F%E5%90%AF%E7%94%A8%E6%9B%B4%E6%96%B0%E5%B7%A5%E5%85%B7)
@@ -45,10 +17,38 @@ Other operating systems have not been tested; please proceed at your own discret
 </details>
 
 <details>
-<summary>解压与虚拟机</summary>
+<summary>文件类</summary>
+
+- [PDF编辑工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/PDF%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+- [文件格式转换](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2)
+- [文件标签分类工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E6%96%87%E4%BB%B6%E6%A0%87%E7%AD%BE%E5%88%86%E7%B1%BB%E5%B7%A5%E5%85%B7)
+
+</details>
+
+<details>
+<summary>网络类</summary>
+
+- [VPN代理工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/VPN%E4%BB%A3%E7%90%86%E5%B7%A5%E5%85%B7)
+- [Steam重定向加速访问工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/Steam%E9%87%8D%E5%AE%9A%E5%90%91%E5%8A%A0%E9%80%9F%E8%AE%BF%E9%97%AE%E5%B7%A5%E5%85%B7)
+- [网络抓包分析工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E7%BD%91%E7%BB%9C%E6%8A%93%E5%8C%85%E5%88%86%E6%9E%90%E5%B7%A5%E5%85%B7)
+
+</details>
+
+<details>
+<summary>解压类</summary>
 
 - [WinRAR解压缩文件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/WinRAR%E8%A7%A3%E5%8E%8B%E7%BC%A9%E6%96%87%E4%BB%B6)
 - [7-Zip解压缩文件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/7-Zip%E8%A7%A3%E5%8E%8B%E7%BC%A9%E6%96%87%E4%BB%B6)
+
+</details>
+
+<details>
+<summary>其他类</summary>
+
+- [屏幕录制软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%E8%BD%AF%E4%BB%B6)
+- [3D动画建模软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/3D%E5%8A%A8%E7%94%BB%E5%BB%BA%E6%A8%A1%E8%BD%AF%E4%BB%B6)
+- [本地图片/视频超分工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E6%9C%AC%E5%9C%B0%E5%9B%BE%E7%89%87%2F%E8%A7%86%E9%A2%91%E8%B6%85%E5%88%86%E5%B7%A5%E5%85%B7)
+- [视频播放器](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E8%A7%86%E9%A2%91%E6%92%AD%E6%94%BE%E5%99%A8)
 - [VM虚拟机](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/VM%E8%99%9A%E6%8B%9F%E6%9C%BA)
 - [U盘检测工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/U%E7%9B%98%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7)
 
