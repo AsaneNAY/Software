@@ -75,3 +75,5 @@ Other operating systems have not been tested; please proceed at your own discret
 - [VM虚拟机](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/VM%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
 </details>
+
+分类可能不太准确，大家见谅(｡>﹏<｡)
