@@ -3,6 +3,8 @@ All content released by this project is intended for Windows systems.
 
 Other operating systems have not been tested; please proceed at your own discretion.
 
+[PDF编辑工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/PDF%E7%BC%96%E8%BE%91%E5%B7%A5%E5%85%B7)
+
 [文件格式转换](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F%E8%BD%AC%E6%8D%A2)
 
 [屏幕录制软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E5%B1%8F%E5%B9%95%E5%BD%95%E5%88%B6%E8%BD%AF%E4%BB%B6)
