@@ -78,7 +78,7 @@ Other operating systems have not been tested; please proceed at your own discret
 
 </details>
 
-
+The categorization might not be entirely accurate—please bear with me! (｡>﹏<｡)
 
 # 软件工具合集
 
