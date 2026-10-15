@@ -57,6 +57,7 @@ Other operating systems have not been tested; please proceed at your own discret
 <details>
 <summary>Hardware Diagnostics</summary>
 
+- [Comprehensive PC Hardware Detection Tool](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/PC%E5%85%A8%E9%9D%A2%E7%A1%AC%E4%BB%B6%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7)
 - [USB Flash Drive Diagnostic Tools](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/U%E7%9B%98%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7)
 
 </details>
@@ -140,6 +141,7 @@ The categorization might not be entirely accurate—please bear with me! (｡>�
 <details>
 <summary>硬件检测类</summary>
 
+- [PC全面硬件检测工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/PC%E5%85%A8%E9%9D%A2%E7%A1%AC%E4%BB%B6%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7)
 - [U盘检测工具](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/U%E7%9B%98%E6%A3%80%E6%B5%8B%E5%B7%A5%E5%85%B7)
 
 </details>
