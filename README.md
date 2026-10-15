@@ -78,6 +78,13 @@ Other operating systems have not been tested; please proceed at your own discret
 
 </details>
 
+---
+
+# 软件工具合集
+
+本项目发布的所有内容均面向Windows系统。
+
+其他操作系统尚未测试;请自行斟酌。
 
 ---
 
