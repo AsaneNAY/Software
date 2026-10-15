@@ -76,4 +76,4 @@ Other operating systems have not been tested; please proceed at your own discret
 
 </details>
 
-分类可能不太准确，大家见谅(｡>﹏<｡)
+分类可能不太准确，大家见谅 (｡>﹏<｡)
