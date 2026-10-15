@@ -3,6 +3,8 @@ All content released by this project is intended for Windows systems.
 
 Other operating systems have not been tested; please proceed at your own discretion.
 
+---
+
 **Categories (Collapsible):**
 
 <details>
@@ -77,6 +79,8 @@ Other operating systems have not been tested; please proceed at your own discret
 </details>
 
 
+---
+
 **分类折叠如下：**
 
 <details>
@@ -149,5 +153,6 @@ Other operating systems have not been tested; please proceed at your own discret
 - [VM虚拟机](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/VM%E8%99%9A%E6%8B%9F%E6%9C%BA)
 
 </details>
+
 
 分类可能不太准确，大家见谅 (｡>﹏<｡)
