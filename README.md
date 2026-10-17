@@ -51,6 +51,7 @@ Other operating systems have not been tested; please proceed at your own discret
 <summary>Creation Tools</summary>
 
 - [3D Animation and Modeling Software](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/3D%E5%8A%A8%E7%94%BB%E5%BB%BA%E6%A8%A1%E8%BD%AF%E4%BB%B6)
+- [Lightweight digital painting software](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E8%BD%BB%E9%87%8F%E6%95%B0%E5%AD%97%E7%BB%98%E7%94%BB%E8%BD%AF%E4%BB%B6)
 
 </details>
 
@@ -135,6 +136,7 @@ The categorization might not be entirely accurate—please bear with me! (｡>�
 <summary>创作工具类</summary>
   
 - [3D动画建模软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/3D%E5%8A%A8%E7%94%BB%E5%BB%BA%E6%A8%A1%E8%BD%AF%E4%BB%B6)
+- [轻量数字绘画软件](https://github.com/AsaneNAY/Software-Tools-Collection/releases/tag/%E8%BD%BB%E9%87%8F%E6%95%B0%E5%AD%97%E7%BB%98%E7%94%BB%E8%BD%AF%E4%BB%B6)
 
 </details>
   
